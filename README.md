@@ -45,3 +45,10 @@ A responsive calculator application built with React, JavaScript, HTML, and CSS.
 ```bash
 npm install
 npm run dev
+```
+
+## Production Build
+
+```bash
+npm run build
+```
